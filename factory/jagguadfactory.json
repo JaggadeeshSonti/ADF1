@@ -1,0 +1,9 @@
+{
+	"name": "jagguadfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f296757e-6ebe-4a46-ab39-3c41f5ad797e",
+		"tenantId": "a9532c9f-a356-4135-b019-38074bd3c6f3"
+	}
+}
